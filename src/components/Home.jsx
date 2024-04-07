@@ -16,8 +16,8 @@ function Home(){
             <section>
                 <div className="container margin-top-cont">
                 <div className="subcon">
-                        <p className="head">Hii, I’m</p><p className="name">Sanjana Murugesan</p>
-                        <p className="subcont2">I’m a budding front end developer with an adaptive nature who can grasp and apply things easily.</p>
+                        <p className="head">Hii, I’m</p><p className="name" >Sanjana Murugesan</p>
+                        <p className="subcont2" >I’m a budding front end developer with an adaptive nature who can grasp and apply things easily.</p>
                     </div>
                     <div className="pic">
                         <img className="photo" src="./images/WhatsApp Image 2023-05-13 at 5.53.55 PM.jpeg" />
