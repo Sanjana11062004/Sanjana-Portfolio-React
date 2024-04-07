@@ -3,7 +3,7 @@ import React from "react";
 function Contact(){
     return(
         <div>
-            <h3 className="align-center" id="contact">Contact</h3><br />
+            <h3 className="align-center"  id="contact">Contact</h3>
             <div>
                 <div className="footer">
                     <div className="footcontainer">
@@ -37,6 +37,7 @@ function Contact(){
                         </div>
                     </div>
                 </div>
+                <br></br>
                 <div style={{textAlign: "center",fontSize: "10px", "color": "rgb(146, 143, 143)", margin:"0%", textDecoration: "underline"}}><a href="https://github.com/Sanjana11062004/paytm-clone">Code</a></div>
                 <div style={{textAlign: "center",fontSize: "10px", "color": "rgb(146, 143, 143)", margin:"0%", textDecoration: "underline"}}><a href="https://www.figma.com/file/oVAqHZG293yoP2mo5JQ1P2/paytm?type=design&node-id=0-1&t=kLOZXZFu21JArmLk-0">Figma</a></div>
             </div>
