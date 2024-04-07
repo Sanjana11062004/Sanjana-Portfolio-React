@@ -3,8 +3,8 @@ import React from "react";
 function Home(){
     return(
         <div>
-            <nav>
-                <ul id="home"  style={{paddingTop:"20px", margin:"0 auto"}}>
+            <nav style={{margin:"0 auto"}}>
+                <ul id="home"  style={{paddingTop:"20px", margin:"0px" }}>
                     <li><a style={{textDecoration: "none" ,"color": "white"}} className="font"  href="#home"><strong>Home</strong></a></li>
                     <li><a style={{textDecoration: "none", "color": "#D0B214"}} className="font"  href="#about"><strong>About</strong></a></li>
                     <li><a style={{textDecoration: "none", "color": "#D0B214"}} className="font"  href="#skills"><strong>Skills</strong></a></li>
