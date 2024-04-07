@@ -5,8 +5,8 @@ function Project() {
     <div>
       <hr id="project" />
       <h3 className="align-center" style={{marginBottom:"50px"}}>My Projects</h3>
-      <section style={{display:"flex", margin:"0 10%", gap:"20px"}}>
-        <div className="container" style={{ display: "block", border:" 2px solid rgb(208, 178, 20)", borderRadius:"5px"}}>
+      <section className="sec">
+        <div className="container marhin" style={{ display: "block", border:" 2px solid rgb(208, 178, 20)", borderRadius:"5px"}}>
           
           <h4 style={{ marginLeft: "10px", color: "#D0B214" }}>Paytm</h4>
           <p className="para font">
@@ -49,7 +49,7 @@ function Project() {
             </span>
           </div>
         </div>
-        <div className="container" style={{ display: "block", border:" 2px solid rgb(208, 178, 20)", borderRadius:"5px" }}>
+        <div className="container marhin" style={{ display: "block", border:" 2px solid rgb(208, 178, 20)", borderRadius:"5px" }}>
           <h4 style={{ marginLeft: "10px", color: "#D0B214" }}>Grocery</h4>
           <p className="para font">
             Grocery is a convenient web application designed to simplify your
@@ -82,7 +82,7 @@ function Project() {
             </span>
           </div>
         </div>
-        <div className="container" style={{ display: "block", border:" 2px solid rgb(208, 178, 20)", borderRadius:"5px" }}>
+        <div className="container marhin" style={{ display: "block", border:" 2px solid rgb(208, 178, 20)", borderRadius:"5px" }}>
           <h4 style={{ marginLeft: "10px", color: "#D0B214" }}>
             Task Manager
           </h4>
@@ -115,7 +115,7 @@ function Project() {
             </span>
           </div>
         </div>
-        <div className="container" style={{ display: "block", border:" 2px solid rgb(208, 178, 20)", borderRadius:"5px" }}>
+        <div className="container marhin" style={{ display: "block", border:" 2px solid rgb(208, 178, 20)", borderRadius:"5px" }}>
           <h4 style={{ marginLeft: "10px", color: "#D0B214" }}>
             Swiggy-Clone
           </h4>

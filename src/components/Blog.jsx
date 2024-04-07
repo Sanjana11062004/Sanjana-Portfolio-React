@@ -8,21 +8,22 @@ function Blog() {
           Blog
         </h3>
         <br />
-       
+        <br />
+        <br />
         <div className="container1">
           <div className="blog font">
             <a href="https://medium.com/@sanjanamurugesan06/how-i-was-able-to-design-a-page-in-paytm-from-zero-8c1b1dba3cec">
               <img
-                width="200px"
-                height="120px"
-                style={{ borderRadius: "10px" }}
+                width="90%"
+                height="80%"
+                style={{ borderRadius: "10px", objectFit:"fill"}}
                 src="/images/learn-web.jpg"
                 
               />
             </a>
             <a
               style={{
-                width: "100%",
+                width: "90%",
                 marginTop: "10px",
                 textDecoration: "none",
                 color: "white",
@@ -35,15 +36,15 @@ function Blog() {
           <div className="blog font">
             <a href="https://medium.com/@sanjanamurugesan06/few-best-creative-and-attractive-websites-b476a191e756">
               <img
-                width="200px"
-                height="118px"
+                width="90%"
+                height="80%"
                 style={{ borderRadius: "10px", objectFit:"fill" }}
-                src="/images/webd.jpg"
+                src="/images/webd.png"
               />
             </a>
             <a
               style={{
-                width: "100%",
+                width: "90%",
                 marginTop: "10px",
                 textDecoration: "none",
                 color: "white",
@@ -84,7 +85,7 @@ function Blog() {
             </a>
             <a
               style={{
-                width: "100%",
+                width: "90%",
                 marginTop: "10px",
                 textDecoration: "none",
                 color: "white",
@@ -106,7 +107,7 @@ Sanjana Murugesan
             </a>
             <a
               style={{
-                width: "100%",
+                width: "90%",
                 marginTop: "10px",
                 textDecoration: "none",
                 color: "white",
