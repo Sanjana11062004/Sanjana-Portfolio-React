@@ -12,7 +12,7 @@ function NonTechSkills(){
                 <div className="dropdown">
                     <button className="dropbtn">Click me to view!</button>
                     <div className="dropdown-content">
-                        <a style={{"margin-top": "10px"}} className="color">Critical Thinking</a>
+                        <a style={{marginTop: "10px"}} className="color">Critical Thinking</a>
                         <hr className="dropdwn-line"/>
                         <a>Emotional intelligence</a>
                         <hr className="dropdwn-line"/>

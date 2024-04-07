@@ -4,10 +4,11 @@ function Project() {
   return (
     <div>
       <hr id="project" />
-      <section>
-        <div className="container" style={{ display: "block" }}>
-          <h3 className="align-center">My Projects</h3>
-          <h4 style={{ "margin-left": "10px", color: "#D0B214" }}>Paytm</h4>
+      <h3 className="align-center" style={{marginBottom:"50px"}}>My Projects</h3>
+      <section style={{display:"flex", margin:"0 10%", gap:"20px"}}>
+        <div className="container" style={{ display: "block", border:" 2px solid rgb(208, 178, 20)", borderRadius:"5px"}}>
+          
+          <h4 style={{ marginLeft: "10px", color: "#D0B214" }}>Paytm</h4>
           <p className="para font">
             In this project the three unique pages of paytm has been designed
             using figma and code for the same has been implemented. The index
@@ -15,7 +16,7 @@ function Project() {
             page.
           </p>
           <br />
-          <div style={{ "margin-left": "10px" }}>
+          <div style={{ marginLeft: "10px" }}>
             <span>
               <a href="https://github.com/Sanjana11062004/paytm-clone">
                 <img
@@ -26,7 +27,7 @@ function Project() {
                 />
               </a>
             </span>
-            <span style={{ "margin-left": "1%" }}>
+            <span style={{ marginLeft: "1%" }}>
               <a href="https://www.figma.com/file/oVAqHZG293yoP2mo5JQ1P2/paytm?type=design&node-id=0-1&t=kLOZXZFu21JArmLk-0">
                 <img
                   width="40px"
@@ -36,7 +37,7 @@ function Project() {
                 />
               </a>
             </span>
-            <span style={{ "margin-left": "1%" }}>
+            <span style={{ marginLeft: "1%" }}>
               <a href="https://paytm-clone-2beq.vercel.app/">
                 <img
                   width="40px"
@@ -48,8 +49,8 @@ function Project() {
             </span>
           </div>
         </div>
-        <div className="container" style={{ display: "block" }}>
-          <h4 style={{ "margin-left": "10px", color: "#D0B214" }}>Grocery</h4>
+        <div className="container" style={{ display: "block", border:" 2px solid rgb(208, 178, 20)", borderRadius:"5px" }}>
+          <h4 style={{ marginLeft: "10px", color: "#D0B214" }}>Grocery</h4>
           <p className="para font">
             Grocery is a convenient web application designed to simplify your
             shopping experience. With Grocery, you can easily create and manage
@@ -57,7 +58,7 @@ function Project() {
             forgetting items or having to remember everything you need to buy.
           </p>
           <br />
-          <div style={{ "margin-left": "10px" }}>
+          <div style={{ marginLeft: "10px" }}>
             <span>
               <a href="https://github.com/Sanjana11062004/Grocery">
                 <img
@@ -69,7 +70,7 @@ function Project() {
               </a>
             </span>
             
-            <span style={{ "margin-left": "1%" }}>
+            <span style={{ marginLeft: "1%" }}>
               <a href="https://grocery-bcnw.vercel.app/">
                 <img
                   width="40px"
@@ -81,8 +82,8 @@ function Project() {
             </span>
           </div>
         </div>
-        <div className="container" style={{ display: "block" }}>
-          <h4 style={{ "margin-left": "10px", color: "#D0B214" }}>
+        <div className="container" style={{ display: "block", border:" 2px solid rgb(208, 178, 20)", borderRadius:"5px" }}>
+          <h4 style={{ marginLeft: "10px", color: "#D0B214" }}>
             Task Manager
           </h4>
           <p className="para font">
@@ -91,7 +92,7 @@ function Project() {
             tasks and remove existing ones.
           </p>
           <br />
-          <div style={{ "margin-left": "10px" }}>
+          <div style={{ marginLeft: "10px" }}>
             <span>
               <a href="https://github.com/Sanjana11062004/To-do-list">
                 <img
@@ -102,7 +103,7 @@ function Project() {
                 />
               </a>
             </span>
-            <span style={{ "margin-left": "1%" }}>
+            <span style={{ marginLeft: "1%" }}>
               <a href="https://to-do-list-bay-six.vercel.app/">
                 <img
                   width="40px"
@@ -114,8 +115,8 @@ function Project() {
             </span>
           </div>
         </div>
-        <div className="container" style={{ display: "block" }}>
-          <h4 style={{ "margin-left": "10px", color: "#D0B214" }}>
+        <div className="container" style={{ display: "block", border:" 2px solid rgb(208, 178, 20)", borderRadius:"5px" }}>
+          <h4 style={{ marginLeft: "10px", color: "#D0B214" }}>
             Swiggy-Clone
           </h4>
           <p className="para font">
@@ -124,7 +125,7 @@ function Project() {
             items to the cart, and calculating shipping costs dynamically.
           </p>
           <br />
-          <div style={{ "margin-left": "10px" }}>
+          <div style={{ marginLeft: "10px" }}>
             <span>
               <a href="https://github.com/Sanjana11062004/Swiggy_Clone">
                 <img
@@ -135,7 +136,7 @@ function Project() {
                 />
               </a>
             </span>
-            <span style={{ "margin-left": "1%" }}>
+            <span style={{ marginLeft: "1%" }}>
               <a href="https://swiggy-clone-lac.vercel.app/">
                 <img
                   width="40px"

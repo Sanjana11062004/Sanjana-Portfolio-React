@@ -4,13 +4,13 @@ function Home(){
     return(
         <div>
             <nav>
-                <ul id="home" >
-                    <li><a style={{"text-decoration": "none" ,"color": "white"}} className="font"  href="#home"><strong>Home</strong></a></li>
-                    <li><a style={{"text-decoration": "none", "color": "#D0B214"}} className="font"  href="#about"><strong>About</strong></a></li>
-                    <li><a style={{"text-decoration": "none", "color": "#D0B214"}} className="font"  href="#skills"><strong>Skills</strong></a></li>
-                    <li><a style={{"text-decoration": "none", "color": "#D0B214"}} className="font"  href="#project"><strong>Projects</strong></a></li>
-                    <li><a style={{"text-decoration": "none", "color": "#D0B214"}}  className="font" href="#Blog"><strong>Blog</strong></a></li>
-                    <li><a style={{"text-decoration": "none", "color": "#D0B214"}} className="font" href="#contact"><strong>Contact</strong></a></li>
+                <ul id="home"  style={{paddingTop:"20px"}}>
+                    <li><a style={{textDecoration: "none" ,"color": "white"}} className="font"  href="#home"><strong>Home</strong></a></li>
+                    <li><a style={{textDecoration: "none", "color": "#D0B214"}} className="font"  href="#about"><strong>About</strong></a></li>
+                    <li><a style={{textDecoration: "none", "color": "#D0B214"}} className="font"  href="#skills"><strong>Skills</strong></a></li>
+                    <li><a style={{textDecoration: "none", "color": "#D0B214"}} className="font"  href="#project"><strong>Projects</strong></a></li>
+                    <li><a style={{textDecoration: "none", "color": "#D0B214"}}  className="font" href="#Blog"><strong>Blog</strong></a></li>
+                    <li><a style={{textDecoration: "none", "color": "#D0B214"}} className="font" href="#contact"><strong>Contact</strong></a></li>
                 </ul>
             </nav>
             <section>
