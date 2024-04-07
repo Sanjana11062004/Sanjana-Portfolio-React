@@ -111,47 +111,48 @@ h3 {
   margin-left: 12px;
 }
 .skills {
-  font-size: small;
-  font-weight: 400;
+  font-size: 16px;
+  font-weight: 600;
   text-align: right;
   padding-top: 2px;
   padding-bottom: 2px;
-  color: white;
+  color: black;
+  border-radius: 10px;
 }
 
 .html {
-  width: 90%;
-  background-color: #04aa6d;
+  width: 80%;
+  background-color: rgb(146, 143, 143);
 } /* Green */
 .css {
   width: 80%;
-  background-color: #2196f3;
+  background-color: rgb(146, 143, 143);
 } /* Blue */
 .js {
   width: 50%;
-  background-color: #f44336;
+  background-color: #c9c9ab94;
 } /* Red */
 .c {
   width: 70%;
-  background-color: #04aa6d;
+  background-color: rgb(146, 143, 143);
 }
 .py {
-  width: 50%;
-  background-color: #2196f3;
+  width: 40%;
+  background-color: rgb(146, 143, 143);
 }
 .java {
   width: 80%;
-  background-color: #f44336;
+  background-color: rgb(146, 143, 143);
 }
 
 .blu {
-  background-color: #2196f3;
+  background-color: rgb(146, 143, 143);
 }
 .green {
-  background-color: #04aa6d;
+  background-color: rgb(146, 143, 143);
 }
 .red{
-  background-color:#f44336 ;
+  background-color: rgb(146, 143, 143);
 }
 .dropbtn {
   background-color: #d0b214;

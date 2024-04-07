@@ -11,42 +11,42 @@ function TechnicalSkills() {
         <div className="ALIGN-ITEMS">
           <p>HTML</p>
           <div className="container1">
-            <div className="skills html">90%</div>
+            <div className="skills html" style={{textAlign:"center"}}>Intermediate</div>
           </div>
 
           <p>CSS</p>
           <div className="container1">
-            <div className="skills css">80%</div>
+            <div className="skills css" style={{textAlign:"center"}}>Intermediate</div>
           </div>
 
           <p>JavaScript</p>
-          <div className="container1">
-            <div className="skills java">80%</div>
+          <div className="container1" >
+            <div className="skills java" style={{textAlign:"center"}}>Intermediate</div>
           </div>
 
           <p>ReactJS</p>
           <div className="container1">
-            <div className="skills java blu">80%</div>
+            <div className="skills java blu" style={{textAlign:"center"}}>Intermediate</div>
           </div>
 
           <p>Java</p>
           <div className="container1">
-            <div className="skills java green">80%</div>
+            <div className="skills java green" style={{textAlign:"center"}}>Intermediate</div>
           </div>
 
           <p>MySQL</p>
-          <div className="container1">
-            <div className="skills c red">70%</div>
+          <div className="container1" >
+            <div className="skills c red" style={{textAlign:"center"}}>Intermediate</div>
           </div>
 
           <p>C</p>
           <div className="container1">
-            <div className="skills c blu">70%</div>
+            <div className="skills c blu" style={{textAlign:"center"}}>Intermediate</div>
           </div>
 
           <p>Python</p>
           <div className="container1">
-            <div className="skills py green">50%</div>
+            <div className="skills py green" style={{textAlign:"center"}}>Beginner</div>
           </div>
         </div>
       </section>
